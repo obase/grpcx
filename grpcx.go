@@ -1,7 +1,7 @@
 package grpcx
 
 import (
-	"github.com/obase/center"
+	"github.com/obase/center/v2"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/naming"
 	"strconv"
